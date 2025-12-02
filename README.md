@@ -122,6 +122,7 @@ Use the **Graph +** and **Graph −** buttons to zoom in and out.
 * Recent operations (deposits / withdrawals) are highlighted briefly.
 
 Use the **Merkle +** and **Merkle −** buttons in the main window to zoom.
+<img width="1645" height="1169" alt="image" src="https://github.com/user-attachments/assets/2a4dc422-6c0b-4b8b-940e-5cf2caff6b7d" />
 
 ---
 
