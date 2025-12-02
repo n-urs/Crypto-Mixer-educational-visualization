@@ -1,4 +1,5 @@
 # Toy Mixer Simulator
+<img width="1978" height="1170" alt="image" src="https://github.com/user-attachments/assets/cfaa121b-da0f-4c14-bf56-a10cbe860f5c" />
 
 Educational Ethereum-style mixer simulator with a PyQt6 GUI, live bubble graph and Merkle tree visualizations. It supports manual deposits and withdrawals, a configurable traffic simulation, Tornado Cash–style withdrawal fees routed to a **Profit** address, plus CSV logging of all activity.
 
